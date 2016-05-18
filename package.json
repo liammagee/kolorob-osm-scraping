@@ -1,0 +1,17 @@
+{
+  "name": "osmxml",
+  "version": "1.0.0",
+  "description": "OSM XML parser",
+  "main": "index.js",
+  "author": "Liam Magee",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liammagee/kolorob-osm-scraping.git"
+  },
+  "dependencies": {
+    "async": "^2.0.0-rc.5",
+    "request": "^2.72.0",
+    "xml2js": "^0.4.16"
+  }
+}
